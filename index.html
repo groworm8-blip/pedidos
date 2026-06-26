@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Bacio Pedidos</title><link rel="stylesheet" href="style.css"></head><body>
+<header class="header">
+<div class="container header-content">
+<div class="logo"><img src="assets/logo.png" alt="Logo"></div>
+<nav class="menu"><a href="#" class="active">CATÁLOGO</a></nav>
+<div class="header-cart"><span>Seu Pedido</span><strong id="valorCabecalho">R$ 0,00</strong></div>
+</div></header>
+<section class="banner"><img src="assets/bannerTopo.png" alt="Banner"></section>
+<main class="container page">
+<section class="catalogo">
+<h2>Nossos Produtos</h2>
+<div class="catalogo-filtros">
+<div class="pesquisa"><input type="text" id="buscarProduto" placeholder="Pesquisar produto..."></div>
+<div class="categorias">
+<button class="categoria ativa" data-categoria="Todos">Todos</button>
+<button class="categoria" data-categoria="Picolés">Picolés</button>
+<button class="categoria" data-categoria="Potes">Potes</button>
+<button class="categoria" data-categoria="Bombons">Bombons</button>
+</div></div>
+<div class="grid-produtos" id="gridProdutos">
+</div></section>
+<aside class="carrinho">
+<h2>Seu Pedido</h2>
+<h3 class="titulo-cliente">
+    Dados do Cliente
+</h3>
+<div class="dados-cliente">
+<input type="text" id="nomeLoja" placeholder="Nome do comércio">
+<input type="text" id="cidadeLoja" placeholder="Cidade">
+</div>
+<div id="listaCarrinho"></div>
+<div class="resumo">
+<div class="linha"><span>Subtotal</span><strong id="subtotal">R$ 0,00</strong></div>
+<div class="linha"><span>Desconto</span><strong id="desconto">R$ 0,00</strong></div>
+<div class="linha total"><span>Total</span><strong id="total">R$ 0,00</strong></div>
+<button class="btn-finalizar" id="btnFinalizar">Finalizar Pedido via WhatsApp</button>
+</div>
+</aside>
+</main>
+<footer class="footer"><div class="container footer-content"><img src="assets/logo.png"><p>© 2026 Todos os direitos reservados.</p></div></footer>
+<script src="script.js"></script></body></html>

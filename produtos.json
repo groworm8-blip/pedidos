@@ -1,0 +1,299 @@
+[
+    {
+        "id": 1,
+        "nome": "Picolé Bacio di Latte",
+        "categoria": "Picolés",
+        "unidadesCaixa": 18,
+        "precoUnidade": 14.55,
+        "precoCaixa": 261.9,
+        "imagem": "assets/produtos/picolebacio.jpeg"
+    },
+    {
+        "id": 2,
+        "nome": "Picolé Chocolate Belga",
+        "categoria": "Picolés",
+        "unidadesCaixa": 18,
+        "precoUnidade": 14.55,
+        "precoCaixa": 261.90,
+        "imagem": "assets/produtos/belga.png"
+    },
+    {
+        "id": 3,
+        "nome": "Picolé Caramelo Salgado",
+        "categoria": "Picolés",
+        "unidadesCaixa": 18,
+        "precoUnidade": 15.90,
+        "precoCaixa": 286.20,
+        "imagem": "assets/produtos/caramelosalgado.png"
+    },
+    {
+        "id": 4,
+        "nome": "Picolé Pistache",
+        "categoria": "Picolés",
+        "unidadesCaixa": 16,
+        "precoUnidade": 15.90,
+        "precoCaixa": 254.40,
+        "imagem": "assets/produtos/belga.png"
+    },
+    {
+        "id": 5,
+        "nome": "Picolé Doce de Leite",
+        "categoria": "Picolés",
+        "unidadesCaixa": 18,
+        "precoUnidade": 14.55,
+        "precoCaixa": 261.90,
+        "imagem": "assets/produtos/docedeleite.png"
+    },
+    {
+        "id": 6,
+        "nome": "Picolé Creme de Maracujá",
+        "categoria": "Picolés",
+        "unidadesCaixa": 18,
+        "precoUnidade": 14.55,
+        "precoCaixa": 261.90,
+        "imagem": "assets/produtos/cremedemaracuja.png"
+    },
+    {
+        "id": 7,
+        "nome": "Picolé Gianduia",
+        "categoria": "Picolés",
+        "unidadesCaixa": 18,
+        "precoUnidade": 14.55,
+        "precoCaixa": 261.90,
+        "imagem": "assets/produtos/gianduia.png"
+    },
+    {
+        "id": 8,
+        "nome": "Picolé Coco",
+        "categoria": "Picolés",
+        "unidadesCaixa": 18,
+        "precoUnidade": 14.55,
+        "precoCaixa": 261.90,
+        "imagem": "assets/produtos/coco.png"
+    },
+    {
+        "id": 9,
+        "nome": "Picolé Brownie",
+        "categoria": "Picolés",
+        "unidadesCaixa": 18,
+        "precoUnidade": 14.55,
+        "precoCaixa": 261.90,
+        "imagem": "assets/produtos/brownie.png"
+    },
+    {
+        "id": 10,
+        "nome": "Picolé Fragola",
+        "categoria": "Picolés",
+        "unidadesCaixa": 18,
+        "precoUnidade": 12.70,
+        "precoCaixa": 228.60,
+        "imagem": "assets/produtos/fragola.png"
+    },
+    {
+        "id": 11,
+        "nome": "Picolé Limão Siciliano",
+        "categoria": "Picolés",
+        "unidadesCaixa": 18,
+        "precoUnidade": 12.70,
+        "precoCaixa": 228.60,
+        "imagem": "assets/produtos/limone.png"
+    },
+    {
+        "id": 12,
+        "nome": "Picolé Disney",
+        "categoria": "Picolés",
+        "unidadesCaixa": 24,
+        "precoUnidade": 9.90,
+        "precoCaixa": 237.60,
+        "imagem": "assets/produtos/disney.png"
+    },
+    {
+        "id": 13,
+        "nome": "Bombom Bacio di Latte",
+        "categoria": "Bombons",
+        "unidadesCaixa": 12,
+        "precoUnidade": 17.40,
+        "precoCaixa": 208.80,
+        "imagem": "assets/produtos/bombombacio.png"
+    },
+    {
+        "id": 14,
+        "nome": "Bombom Pistache",
+        "categoria": "Bombons",
+        "unidadesCaixa": 12,
+        "precoUnidade": 17.40,
+        "precoCaixa": 208.80,
+        "imagem": "assets/produtos/bombompistache.png"
+    },
+    {
+        "id": 15,
+        "nome": "Bombom Framboesa",
+        "categoria": "Bombons",
+        "unidadesCaixa": 12,
+        "precoUnidade": 17.40,
+        "precoCaixa": 208.80,
+        "imagem": "assets/produtos/bombomframboesa.png"
+    },
+    {
+        "id": 16,
+        "nome": "Bombom Caramelo Salgado",
+        "categoria": "Bombons",
+        "unidadesCaixa": 12,
+        "precoUnidade": 17.40,
+        "precoCaixa": 208.80,
+        "imagem": "assets/produtos/bombomcaramelosalgado.png"
+    },
+    {
+        "id": 17,
+        "nome": "Bombom Bacio di Latte",
+        "categoria": "Bombons",
+        "unidadesCaixa": 8,
+        "precoUnidade": 30.00,
+        "precoCaixa": 240.80,
+        "imagem": "assets/produtos/bpotebacio.png"
+    },
+    {
+        "id": 18,
+        "nome": "Bombom Pistache",
+        "categoria": "Bombons",
+        "unidadesCaixa": 8,
+        "precoUnidade": 30.00,
+        "precoCaixa": 240.80,
+        "imagem": "assets/produtos/bpotepistache.png"
+    },
+    {
+        "id": 19,
+        "nome": "Bombom Caramelo Salgado",
+        "categoria": "Bombons",
+        "unidadesCaixa": 8,
+        "precoUnidade": 30.00,
+        "precoCaixa": 240.80,
+        "imagem": "assets/produtos/bpotecaramelo.png"
+    },
+    {
+        "id": 20,
+        "nome": "Bombom Framboesa",
+        "categoria": "Bombons",
+        "unidadesCaixa": 8,
+        "precoUnidade": 30.00,
+        "precoCaixa": 240.80,
+        "imagem": "assets/produtos/bpoteframboesa.png"
+    },
+    {
+        "id": 21,
+        "nome": "Bombom Chocolate Belga",
+        "categoria": "Bombons",
+        "unidadesCaixa": 8,
+        "precoUnidade": 30.00,
+        "precoCaixa": 240.80,
+        "imagem": "assets/produtos/bpotebelga.png"
+    },
+    {
+        "id": 22,
+        "nome": "Gelato Pistache",
+        "categoria": "Potes",
+        "unidadesCaixa": 8,
+        "precoUnidade": 41.0,
+        "precoCaixa": 328.0,
+        "imagem": "assets/produtos/potepistache.png"
+    },
+    {
+        "id": 23,
+        "nome": "Gelato Caramelo Salgado",
+        "categoria": "Potes",
+        "unidadesCaixa": 8,
+        "precoUnidade": 41.0,
+        "precoCaixa": 328.0,
+        "imagem": "assets/produtos/potecaramelosalgado.png"
+    },
+    {
+        "id": 24,
+        "nome": "Gelato Doce de Leite",
+        "categoria": "Potes",
+        "unidadesCaixa": 8,
+        "precoUnidade": 41.0,
+        "precoCaixa": 328.0,
+        "imagem": "assets/produtos/potedocedeleite.png"
+    },
+    {
+        "id": 25,
+        "nome": "Gelato Maracujá",
+        "categoria": "Potes",
+        "unidadesCaixa": 8,
+        "precoUnidade": 41.0,
+        "precoCaixa": 328.0,
+        "imagem": "assets/produtos/potemaracuja.png"
+    },
+    {
+        "id": 26,
+        "nome": "Gelato Brownie",
+        "categoria": "Potes",
+        "unidadesCaixa": 8,
+        "precoUnidade": 41.0,
+        "precoCaixa": 328.0,
+        "imagem": "assets/produtos/potebrownie.png"
+    },
+    {
+        "id": 27,
+        "nome": "Gelato Bacio",
+        "categoria": "Potes",
+        "unidadesCaixa": 8,
+        "precoUnidade": 41.0,
+        "precoCaixa": 328.0,
+        "imagem": "assets/produtos/potebacio.png"
+    },
+    {
+        "id": 28,
+        "nome": "Gelato Biscoito",
+        "categoria": "Potes",
+        "unidadesCaixa": 8,
+        "precoUnidade": 41.0,
+        "precoCaixa": 328.0,
+        "imagem": "assets/produtos/potebiscoito.png"
+    },
+    {
+        "id": 29,
+        "nome": "Gelato Gianduia",
+        "categoria": "Potes",
+        "unidadesCaixa": 8,
+        "precoUnidade": 41.0,
+        "precoCaixa": 328.0,
+        "imagem": "assets/produtos/potegianduia.png"
+    },
+    {
+        "id": 30,
+        "nome": "Gelato Coco",
+        "categoria": "Potes",
+        "unidadesCaixa": 8,
+        "precoUnidade": 41.0,
+        "precoCaixa": 328.0,
+        "imagem": "assets/produtos/potecoco.png"
+    },
+    {
+        "id": 31,
+        "nome": "Gelato Chocolate Belga",
+        "categoria": "Potes",
+        "unidadesCaixa": 8,
+        "precoUnidade": 41.0,
+        "precoCaixa": 328.0,
+        "imagem": "assets/produtos/potebelga.png"
+    },
+    {
+        "id": 32,
+        "nome": "Gelato Crema",
+        "categoria": "Potes",
+        "unidadesCaixa": 8,
+        "precoUnidade": 41.0,
+        "precoCaixa": 328.0,
+        "imagem": "assets/produtos/potecrema.png"
+    },
+    {
+        "id": 33,
+        "nome": "Gelato Strawberry e Cheesecake",
+        "categoria": "Potes",
+        "unidadesCaixa": 8,
+        "precoUnidade": 41.0,
+        "precoCaixa": 328.0,
+        "imagem": "assets/produtos/potestrawberry.png"
+    }
+]
